@@ -1,3 +1,4 @@
-# CIM622-UXResearchMethods
+# UXResearch
 
-### [Report PDF](https://github.com/kikijinqili/CIM622-UXResearchMethods/blob/master/UMLawUsabilityReport.pdf)
+### [UM Law Website Redesign](https://kikijinqili.github.io/UXResearch/UMLawUsabilityReport.pdf)
+### [Redesigning 'Move-To'](https://kikijinqili.github.io/UXResearch/redesignMoveTo.png)
