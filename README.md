@@ -1,0 +1,1 @@
+# CIM622-UXResearchMethods
